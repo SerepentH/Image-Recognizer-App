@@ -1,0 +1,26 @@
+body 
+{
+   background-color:salmon;
+}
+
+h1
+{
+   font-style: italic;
+   color:slateblue;
+   font-family:'Times New Roman', Times, serif;
+
+}
+
+#camera
+{
+    width: 350;
+    height: 300;
+    border: 2px dashed black;
+
+}
+
+.name_of_objects
+{
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 22;
+}
